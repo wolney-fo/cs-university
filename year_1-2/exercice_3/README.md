@@ -1,0 +1,1 @@
+### 3. Escreva um programa para simular o jogo da forca. Considere que o usuário só pode errar 3 vezes. A cada rodada imprima as letras com acerto e as posições faltantes.
